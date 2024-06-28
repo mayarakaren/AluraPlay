@@ -6,6 +6,8 @@ Este projeto foi desenvolvido durante o curso "Flexbox e layouts responsivos" da
 
 O AluraPlay é uma plataforma de vídeos inspirada no YouTube, onde aplicamos técnicas de Flexbox para criar um layout moderno e responsivo. Durante o curso, exploramos diferentes propriedades e valores do Flexbox para posicionar e alinhar elementos da interface, tornando-a adaptável a diferentes tamanhos de tela.
 
+![Projeto na Versão Desktop](img/desktop.png)
+
 ## Estrutura do Projeto
 
 O projeto está organizado em arquivos HTML e CSS:
