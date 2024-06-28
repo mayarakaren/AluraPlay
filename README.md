@@ -106,6 +106,7 @@ O projeto está organizado em arquivos HTML e CSS:
 1. Clone este repositório para o seu ambiente local.
 2. Navegue até o diretório do projeto.
 3. Abra o arquivo `index.html` em seu navegador preferido.
+4. Ou acesse o Link do deploy do projeto: [Deploy do AluraPlay](https://alura-play-pearl-theta.vercel.app/)
 
 ## Tecnologias Utilizadas
 
